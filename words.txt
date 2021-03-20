@@ -3,3 +3,4 @@ na
 novi
 zborovi
 pozdrav
+zborce
